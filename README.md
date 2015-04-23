@@ -8,3 +8,5 @@ The project is very simple and straight forward.</br>
 Just place your own viewcontrollers with the existing ones and set : </br>
 var topMenuHeight : CGFloat = 150</br>
 for desired drawer height.
+
+![sample](screengif/screenshot.gif)
